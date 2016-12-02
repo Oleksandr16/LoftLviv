@@ -1,0 +1,42 @@
+.body{
+     background-color: #50423d;
+}
+.label {
+    font-size: 50px;
+    color: #261212;
+    background-color: #b5a37b;
+    
+}
+.heder {
+    font-size: 35px;
+    color: #261212;
+    background-color: #b5a37b;
+    
+}
+
+.nav{
+    color: #261212;
+    height: 60px;
+    font-size: 30px;
+    background-color: #bfb6a4;
+}
+.figcaption {
+    font-size: 30px;
+}
+.galery {
+    width: 500px;
+    height: 360px;
+}
+.contact {
+    font-size: 50px
+}
+.number {
+
+    font-size: 30px;
+}
+.adress {
+    font-size: 50px;
+}
+.street {
+    font-size: 30px;
+}

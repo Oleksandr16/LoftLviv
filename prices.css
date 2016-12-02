@@ -1,0 +1,45 @@
+.body{
+     background-color: #50423d;
+}
+.label {
+    font-size: 50px;
+    color: #261212;
+    background-color: #b5a37b;
+    
+}
+.heder {
+    font-size: 35px;
+    color: #261212;
+    background-color: #b5a37b;
+    
+}
+.img {
+    position: absolute;
+    left: 950px;
+    top: 245px;
+}
+.mainimg {
+    position: relative;
+    top: 30px;
+    width:1320px;
+    height: 500px ;
+}
+.nav{
+    color: #261212;
+    height: 60px;
+    font-size: 30px;
+    background-color: #bfb6a4;
+}
+.contact {
+    font-size: 50px
+}
+.number {
+
+    font-size: 30px;
+}
+.adress {
+    font-size: 50px;
+}
+.street {
+    font-size: 30px;
+}
