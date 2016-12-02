@@ -1,0 +1,57 @@
+.body{
+     background-color: #524636;
+    
+}
+.heder {
+    color: #261212;
+    font-size: 50px;
+    background-color: #b5a37b;
+}
+.nav{
+    color: #261212;
+    height: 60px;
+    font-size: 30px;
+    background-color: #bfb6a4;
+}
+.img {
+    position: relative;
+    left: 5px;
+    width: 1320px;
+    height: 400px;
+}
+.table {
+    padding: 5px;
+    font-size: 30px;
+}
+.parking {
+    Position: relative;
+    top: -10px;
+    width: 150px;
+    height: 130px;
+}
+.wifi {
+    Position: relative;
+    left: 30px;
+    width: 150px;
+    height: 150px;
+}
+.shisha1 {
+    Position: relative;
+    left: 60px;
+    top: -10px;
+    width: 150px ;
+    height: 130px;
+}
+.why { 
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Cantata One', serif;
+    font-size: 40px;
+}
+.list {
+    position: relative;
+    left:;
+    top:;
+  font-size: 30px;
+  font-family: 'Great Vibes', cursive;
+  font-family: 'Cantata One', serif;
+}
