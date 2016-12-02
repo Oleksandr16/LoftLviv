@@ -48,10 +48,20 @@
     font-size: 40px;
 }
 .list {
-    position: relative;
-    left:;
-    top:;
   font-size: 30px;
   font-family: 'Great Vibes', cursive;
   font-family: 'Cantata One', serif;
+}
+.contact {
+    font-size: 50px
+}
+.number {
+
+    font-size: 30px;
+}
+.adress {
+    font-size: 50px;
+}
+.street {
+    font-size: 30px;
 }
