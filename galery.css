@@ -5,20 +5,23 @@
     font-size: 50px;
     color: #261212;
     background-color: #b5a37b;
-    
+    margin: 0;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
 }
 .heder {
     font-size: 35px;
     color: #261212;
     background-color: #b5a37b;
-    
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
 }
-
 .nav{
     color: #261212;
     height: 60px;
     font-size: 30px;
     background-color: #bfb6a4;
+    margin: 0;
 }
 .figcaption {
     position: relative;
@@ -32,21 +35,28 @@
     height: 360px;
 }
 .contact {
-    font-size: 50px
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
 }
 .number {
-
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
     font-size: 30px;
 }
 .adress {
-    position: relative;
+    position: absolute;
     left: 1100px;
-    top: -190px;
+    top: 2550px;
     font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
 }
 .street {
-    position: relative;
+    position: absolute;
     left: 1100px;
-    top: -190px;
+    top: 2650px;
     font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
 }

@@ -9,6 +9,8 @@
     color: #261212;
     font-size: 50px;
     background-color: #b5a37b;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
 }
 .nav{
     color: #261212;
@@ -28,6 +30,8 @@
     padding: 5px;
     font-size: 30px;
     float: center;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
 }
 .parking {
     Position: relative;
@@ -49,31 +53,38 @@
     height: 130px;
 }
 .why {
-    font-family: 'Great Vibes', cursive;
-    font-family: 'Cantata One', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
     font-size: 40px;
 }
 .list {
   font-size: 30px;
-  font-family: 'Great Vibes', cursive;
-  font-family: 'Cantata One', serif;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Lobster Two', cursive;
 }
 .contact {
-    font-size: 50px
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
 }
 .number {
-
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
     font-size: 30px;
 }
 .adress {
-    position: relative;
+    position: absolute;
     left: 1000px;
-    top: -120px;
+    top: 1250px;
     font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
 }
 .street {
-    position: relative;
+    position: absolute;
     left: 1000px;
-    top: -120px;
+    top: 1320px;
     font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
 }

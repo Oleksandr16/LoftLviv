@@ -5,42 +5,60 @@
     font-size: 50px;
     color: #261212;
     background-color: #b5a37b;
-    
+    margin: 0;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
 }
 .heder {
     font-size: 35px;
     color: #261212;
     background-color: #b5a37b;
-    
-}
-.img {
-    position: absolute;
-    left: 950px;
-    top: 245px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
 }
 .mainimg {
     position: relative;
-    top: 30px;
+    top: 1
+    0px;
     left: 150px;
     width:1000px;
-    height: 400px ;
+    height: 500px ;
 }
 .nav{
     color: #261212;
     height: 60px;
     font-size: 30px;
     background-color: #bfb6a4;
+    margin: 0; 
+}
+.list {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
+    font-size: 25px;
 }
 .contact {
-    font-size: 50px
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
 }
 .number {
-
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
     font-size: 30px;
 }
 .adress {
+    position: absolute;
+    left: 1100px;
+    top: 1090px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
     font-size: 50px;
 }
 .street {
+    position: absolute;
+    left: 1100px;
+    top: 1190px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
     font-size: 30px;
 }

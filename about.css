@@ -9,6 +9,7 @@
     color: #261212;
     font-size: 50px;
     background-color: #b5a37b;
+    margin: 0;
 }
 .label {
     font-family: 'Dancing Script', cursive;
@@ -22,6 +23,7 @@
     height: 60px;
     font-size: 30px;
     background-color: #bfb6a4;
+    margin: 0;
 }
 .text {
     font-family: 'Dancing Script', cursive;
@@ -37,15 +39,20 @@
 .komfort {
     position: absolute;
     left: 500px;
-    top: 1200px;
+    top: 1140px;
 }
 .listforkamfort {
     position: absolute;
     left: 500px;
-    top: 1240px;
+    top: 1180px;
 }
 .kitchen {
     position: absolute;
-    left: 800px;
-    top: 1200px;
+    left: 850px;
+    top: 1140px;
 } 
+.listforkitchen {
+    position: absolute;
+    left: 850px;
+    top: 1180px;
+}
