@@ -1,0 +1,51 @@
+
+.body{
+     background-color: #524636;
+    
+}
+.heder {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
+    color: #261212;
+    font-size: 50px;
+    background-color: #b5a37b;
+}
+.label {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
+    font-size: 50px;
+    color: #261212;
+    background-color: #b5a37b;
+}
+.nav{
+    color: #261212;
+    height: 60px;
+    font-size: 30px;
+    background-color: #bfb6a4;
+}
+.text {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
+    font-size: 25px;
+}
+.image {
+    position: relative;
+    left: 170px;
+    width: 1000px;
+    height: 500px;
+}
+.komfort {
+    position: absolute;
+    left: 500px;
+    top: 1200px;
+}
+.listforkamfort {
+    position: absolute;
+    left: 500px;
+    top: 1240px;
+}
+.kitchen {
+    position: absolute;
+    left: 800px;
+    top: 1200px;
+} 

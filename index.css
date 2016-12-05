@@ -1,3 +1,6 @@
+* {
+    margin: 0;
+}
 .body{
      background-color: #524636;
     
@@ -15,13 +18,16 @@
 }
 .img {
     position: relative;
-    left: 5px;
-    width: 1320px;
+    left: 150px;
+    width: 1000px;
     height: 400px;
 }
 .table {
+    display: flex;
+    justify-content: center;
     padding: 5px;
     font-size: 30px;
+    float: center;
 }
 .parking {
     Position: relative;
@@ -42,7 +48,7 @@
     width: 150px ;
     height: 130px;
 }
-.why { 
+.why {
     font-family: 'Great Vibes', cursive;
     font-family: 'Cantata One', serif;
     font-size: 40px;
@@ -60,8 +66,14 @@
     font-size: 30px;
 }
 .adress {
+    position: relative;
+    left: 1000px;
+    top: -120px;
     font-size: 50px;
 }
 .street {
+    position: relative;
+    left: 1000px;
+    top: -120px;
     font-size: 30px;
 }

@@ -21,10 +21,14 @@
     background-color: #bfb6a4;
 }
 .figcaption {
+    position: relative;
+    left: 20px;
     font-size: 30px;
 }
 .galery {
-    width: 500px;
+    position: relative;
+    left: 20px;
+    width: 600px;
     height: 360px;
 }
 .contact {
@@ -35,8 +39,14 @@
     font-size: 30px;
 }
 .adress {
+    position: relative;
+    left: 1100px;
+    top: -190px;
     font-size: 50px;
 }
 .street {
+    position: relative;
+    left: 1100px;
+    top: -190px;
     font-size: 30px;
 }

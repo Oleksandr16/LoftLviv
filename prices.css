@@ -21,8 +21,9 @@
 .mainimg {
     position: relative;
     top: 30px;
-    width:1320px;
-    height: 500px ;
+    left: 150px;
+    width:1000px;
+    height: 400px ;
 }
 .nav{
     color: #261212;
