@@ -47,7 +47,7 @@
 .adress {
     position: absolute;
     left: 1100px;
-    top: 2550px;
+    top: 2600px;
     font-size: 50px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
@@ -55,7 +55,7 @@
 .street {
     position: absolute;
     left: 1100px;
-    top: 2650px;
+    top: 2700px;
     font-size: 30px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
