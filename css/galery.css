@@ -16,25 +16,23 @@
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
 }
-.mainimg {
-    position: relative;
-    top: 1
-    0px;
-    left: 150px;
-    width:1000px;
-    height: 500px ;
-}
 .nav{
     color: #261212;
     height: 60px;
     font-size: 30px;
     background-color: #bfb6a4;
-    margin: 0; 
+    margin: 0;
 }
-.list {
-    font-family: 'Dancing Script', cursive;
-    font-family: 'Lobster Two', cursive;
-    font-size: 25px;
+.figcaption {
+    position: relative;
+    left: 20px;
+    font-size: 30px;
+}
+.galery {
+    position: relative;
+    left: 20px;
+    width: 600px;
+    height: 360px;
 }
 .contact {
     font-size: 50px;
@@ -48,17 +46,17 @@
 }
 .adress {
     position: absolute;
-    left: 1100px;
-    top: 1180px;
+    left: 1090px;
+    top: 2590px;
+    font-size: 50px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
-    font-size: 50px;
 }
 .street {
     position: absolute;
     left: 1100px;
-    top: 1270px;
+    top: 2690px;
+    font-size: 30px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
-    font-size: 30px;
 }
