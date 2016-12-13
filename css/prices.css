@@ -1,63 +1,58 @@
+*{
+    margin: 0;
+}
 .body{
      background-color: #50423d;
 }
-.label {
-    font-size: 50px;
+#heder {
     color: #261212;
-    background-color: #b5a37b;
-    margin: 0;
+    background-color: black;
+    font-size: 50px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
 }
-.heder {
+.label {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
     font-size: 50px;
     color: #261212;
     background-color: #b5a37b;
-    font-family: 'Dancing Script', cursive;
-    font-family: 'Lobster Two', cursive;
+    margin-top: 2%;
 }
 .mainimg {
-    position: relative;
-    top: 10px;
-    left: 150px;
-    width:1000px;
-    height: 500px ;
+    display: flex;
+    width: 80%;
+    height: 500px;
+    padding-left: 10%;
+    margin-top: 2%;
 }
 .nav{
     color: #261212;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%;
     height: 60px;
     font-size: 30px;
-    background-color: #bfb6a4;
-    margin: 0; 
+    background-color: #bfb6a4; 
 }
 .list {
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
     font-size: 25px;
 }
-.contact {
-    font-size: 50px;
+#contadd {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 6%;
+    font-size: 25px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
 }
-.number {
-    font-family: 'Dancing Script', cursive;
-    font-family: 'Lobster Two', cursive;
+#footer {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 9%;
     font-size: 30px;
-}
-.adress {
-    position: absolute;
-    left: 1090px;
-    top: 1160px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
-    font-size: 50px;
-}
-.street {
-    position: absolute;
-    left: 1100px;
-    top: 1260px;
-    font-family: 'Dancing Script', cursive;
-    font-family: 'Lobster Two', cursive;
-    font-size: 30px;
 }

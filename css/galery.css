@@ -1,61 +1,57 @@
+* {
+   margin: 0; 
+}
 .body{
      background-color: #50423d;
+}
+#heder {
+    color: #261212;
+    background-color: black;
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
 }
 .label {
     font-size: 50px;
     color: #261212;
     background-color: #b5a37b;
-    margin: 0;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
-}
-.heder {
-    font-size: 35px;
-    color: #261212;
-    background-color: #b5a37b;
-    font-family: 'Dancing Script', cursive;
-    font-family: 'Lobster Two', cursive;
+    margin-top: 2%;
 }
 .nav{
     color: #261212;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%;
     height: 60px;
     font-size: 30px;
     background-color: #bfb6a4;
-    margin: 0;
 }
 .figcaption {
-    position: relative;
-    left: 20px;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 1%;
     font-size: 30px;
 }
 .galery {
-    position: relative;
-    left: 20px;
-    width: 600px;
+    display: inline-block;
+    width: 48%;
     height: 360px;
+    padding-left: 1%
 }
-.contact {
-    font-size: 50px;
+#contadd {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 6%;
+    font-size: 25px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
 }
-.number {
-    font-family: 'Dancing Script', cursive;
-    font-family: 'Lobster Two', cursive;
-    font-size: 30px;
-}
-.adress {
-    position: absolute;
-    left: 1100px;
-    top: 2550px;
-    font-size: 50px;
-    font-family: 'Dancing Script', cursive;
-    font-family: 'Lobster Two', cursive;
-}
-.street {
-    position: absolute;
-    left: 1100px;
-    top: 2650px;
+#footer {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 9%;
     font-size: 30px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
