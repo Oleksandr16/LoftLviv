@@ -1,0 +1,32 @@
+@media screen and (max-width: 770px) {
+ #heder {
+     height: 80px;
+     font-size: 25px;
+     
+ }
+ .nav {
+     width: 100%;
+     margin-top: 0;
+     font-size: 20px;
+}
+.label {
+   width: 100%;
+   font-size: 25px;
+}
+.figcaption {
+  font-size: 20px;
+}
+.galery {
+ display: block;
+ width: 100%;
+ padding-left: 0;
+}
+#contadd {
+     font-size: 10px;
+     padding-right: 9%;
+ }
+
+ #footer {
+     font-size: 15px;
+ }
+}

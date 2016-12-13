@@ -27,6 +27,7 @@
     color: #261212;
     display: flex;
     justify-content: space-around;
+    align-items: center;
     margin-top: 3%;
     height: 60px;
     font-size: 30px;
@@ -46,18 +47,22 @@
     padding-left: 1%
 }
 #contadd {
+    background-color: #d1d3be;
     display: flex;
     justify-content: space-between;
     padding-right: 6%;
+    padding-left: 4%;
     font-size: 25px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
 }
 #footer {
+    background-color: #d1d3be;
     display: flex;
     justify-content: space-between;
     padding-right: 9%;
     font-size: 30px;
+    padding-left: 4%;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
 }

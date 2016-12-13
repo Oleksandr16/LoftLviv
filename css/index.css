@@ -33,7 +33,7 @@
     padding-left: 10%;
     
 }
-.table {
+/*.table {
     display: flex;
     justify-content: center;
     padding: 5px;
@@ -41,7 +41,7 @@
     float: center;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
-}
+}*/
 .parking {
     Position: relative;
     top: -10px;
