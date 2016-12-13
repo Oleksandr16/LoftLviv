@@ -5,6 +5,10 @@
      background-color: #50423d;
 }
 #heder {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 140px;
     color: #261212;
     background-color: black;
     font-size: 50px;
@@ -34,6 +38,7 @@
     padding-left: 1%;
     font-size: 30px;
 }
+
 .galery {
     display: inline-block;
     width: 48%;

@@ -6,6 +6,10 @@
     
 }
 #heder {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 160px;
     color: #261212;
     background-color: black;
     font-size: 50px;
@@ -16,6 +20,7 @@
     color: #261212;
     display: flex;
     justify-content: space-around;
+    align-items: center;
     margin-top: 3%;
     height: 60px;
     font-size: 30px;
@@ -58,14 +63,20 @@
     height: 130px;
 }
 .why {
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 1%;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
     font-size: 40px;
 }
 .list {
-  font-size: 30px;
-  font-family: 'Dancing Script', cursive;
-  font-family: 'Lobster Two', cursive;
+    display: block;
+    justify-content: flex-start;
+    padding-left: 6%;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
 }
 #contadd {
     display: flex;

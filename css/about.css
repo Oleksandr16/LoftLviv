@@ -6,11 +6,15 @@
     
 }
 #heder {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 140px;
+    color: #261212;
+    background-color: black;
+    font-size: 50px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
-    color: #261212;
-    font-size: 50px;
-    background-color: #b5a37b;
 }
 .label {
     font-family: 'Dancing Script', cursive;
