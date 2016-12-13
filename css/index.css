@@ -1,28 +1,32 @@
 * {
     margin: 0;
 }
-.body{
+#body {
      background-color: #524636;
     
 }
-.heder {
+#heder {
     color: #261212;
+    background-color: black;
     font-size: 50px;
-    background-color: #b5a37b;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
 }
 .nav{
     color: #261212;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%;
     height: 60px;
     font-size: 30px;
     background-color: #bfb6a4;
 }
 .img {
-    position: relative;
-    left: 150px;
-    width: 1000px;
-    height: 400px;
+    display: flex;
+    width: 80%;
+    height: 500px;
+    padding-left: 10%;
+    
 }
 .table {
     display: flex;
@@ -62,6 +66,7 @@
   font-family: 'Dancing Script', cursive;
   font-family: 'Lobster Two', cursive;
 }
+
 .contact {
     font-size: 50px;
     font-family: 'Dancing Script', cursive;
@@ -72,18 +77,20 @@
     font-family: 'Lobster Two', cursive;
     font-size: 30px;
 }
+
+
 .adress {
     position: absolute;
-    left: 1000px;
-    top: 1250px;
+    left: 1100px;
+    top: 1460px;
     font-size: 50px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
 }
 .street {
     position: absolute;
-    left: 1000px;
-    top: 1315px;
+    left: 1100px;
+    top: 1530px;
     font-size: 30px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
