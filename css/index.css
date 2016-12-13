@@ -78,10 +78,18 @@
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
 }
+#form {
+    display: block;
+    justify-content: flex-end;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster Two', cursive;
+    padding-left: 1%;
+}
 #contadd {
     display: flex;
     justify-content: space-between;
     padding-right: 6%;
+    padding-left: 1%; 
     font-size: 25px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
@@ -90,6 +98,7 @@
     display: flex;
     justify-content: space-between;
     padding-right: 9%;
+    padding-left: 1%;
     font-size: 30px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
