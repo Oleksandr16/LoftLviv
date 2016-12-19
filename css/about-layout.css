@@ -15,6 +15,7 @@
    font-size: 25px;
 }
 .text {
+ color: #d1d3be;
  font-size: 20px;
 }
 .img {
@@ -24,12 +25,15 @@
   padding: 0;
 }
 #poslug {
+ background-color: #d1d3be;
  font-size: 15px;
 }
 #rozkomfkitch {
+ background-color: #d1d3be;
  font-size: 13px;
 }
 #list {
+ background-color: #d1d3be;
  font-size: 10px;
 }
 }
