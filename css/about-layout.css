@@ -26,14 +26,19 @@
 }
 #poslug {
  margin: 0;
+ padding: 0;
  background-color: #d1d3be;
  font-size: 15px;
 }
 #rozkomfkitch {
+ margin: 0;
+ padding: 0;
  background-color: #d1d3be;
  font-size: 13px;
 }
 #list {
+ margin: 0;
+ padding: 0;
  background-color: #d1d3be;
  font-size: 10px;
 }
