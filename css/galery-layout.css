@@ -24,9 +24,11 @@
 #contadd {
      font-size: 10px;
      padding-right: 9%;
+     background-color: #d1d3be;
  }
 
  #footer {
+     background-color: #d1d3be;
      font-size: 15px;
  }
 }
