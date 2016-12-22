@@ -4,6 +4,7 @@
 .body{
      background-color: #50423d;
      max-width: 1920px;
+     margin: 0,auto;
 }
 #heder {
     display: flex;
