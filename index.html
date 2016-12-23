@@ -5,23 +5,49 @@
         <title>Main</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="https://fonts.googleapis.com/css?family=Dancing+Script|Lobster+Two" rel="stylesheet">
+         <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
         <link rel="stylesheet" href="css/index.css">
         <link rel="stylesheet" href="css/index-layout.css">
     </head>
-    <body id="body">
-        <heder id="heder">
-            <h1>Loft Lviv</h1>
-        </heder>
-        <main id="main"> 
-            <nav class="nav">
+    <body>
+        <header id="header">
+            <h1 id="label">Loft Lviv</h1>
+        </header>
+        <nav class="navbar navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+                <a class="navbar-brand" href="#">Menu</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                    <li><a href="index.html">Головна</a></li>
+                    <li><a href="galery.html" class="smooth">Галерея</a></li>
+                    <li><a href="index.html">Ціни</a></li>
+                    <li><a href="galery.html" class="smooth">Про Нас</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                    <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+           <!-- <nav class="nav">
                 <a href="index.html">Головна</a>
                 <a href="galery.html">Галерея</a>
                 <a href="prices.html">Ціни</a>
                 <a href="about.html">Про нас</a>
-            </nav>
+            </nav>-->
         <br>
         <br>
-        
     <img class="img" src="img/main.jpg" alt="golovna"></img>
     <!-- сделать анимацию что бы переключадись фото
         <img src="img/bedroom.jpg" alt="bedroom"  width="441" height="315"></img>
@@ -43,10 +69,10 @@
             <input type="submit" value="Отправить">
 
         </form>
--->
+
         <img class="parking" src="img/parking.jpg" alt="parking"></img>
         <img class="wifi" src="img/wifi.png" alt="wifi"></img>
-        <img class="shisha1" src="img/shisha1.jpg" alt="shisha"></img>
+        <img class="shisha1" src="img/shisha1.jpg" alt="shisha"></img>-->
         <br>
             <h1 class="why">Чому ми?</h1>
                 <ul class="list">
@@ -82,7 +108,6 @@
             <br>
             <input type="submit" id="submit">
         </form>
-        </main>
         <contadd id=contadd>
         <h1>Контакти:</h1>
         <h1>Адреса:</h1>

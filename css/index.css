@@ -1,24 +1,25 @@
 * {
     margin: 0;
 }
-#body {
+body {
+    margin: 0 auto;
     max-width: 1920px;
-    margin: 0,auto;
     background-color: #50423d;
-    
 }
-#heder {
+#header {
     display: flex;
     justify-content: flex-start;
     align-items: center;
     height: 160px;
     color: #261212;
     background-color: black;
-    font-size: 50px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
 }
-.nav{
+#label {
+    font-size: 70px;
+}
+/*.nav{
     color: #261212;
     display: flex;
     justify-content: space-around;
@@ -27,12 +28,16 @@
     height: 60px;
     font-size: 30px;
     background-color: #bfb6a4;
-}
+}*/
 .img {
     display: flex;
-    width: 80%;
+    justify-content: center;
+    width: 90%;
     height: 500px;
-    padding-left: 10%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    padding-right: 5%; 
+    padding-left: 5%;
     
 }
 /*.table {
@@ -68,6 +73,7 @@
     display: flex;
     justify-content: flex-start;
     padding-left: 1%;
+    color: black;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
     font-size: 40px;
@@ -75,12 +81,14 @@
 .list {
     display: block;
     justify-content: flex-start;
+    color: black;
     padding-left: 6%;
     font-size: 30px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
 }
 #form {
+    color: black;
     display: block;
     justify-content: flex-end;
     font-family: 'Dancing Script', cursive;
@@ -88,6 +96,7 @@
     padding-left: 1%;
 }
 #contadd {
+    color: black;
     display: flex;
     justify-content: space-between;
     padding-right: 6%;
@@ -97,6 +106,7 @@
     font-family: 'Lobster Two', cursive;
 }
 #footer {
+    color: black;
     display: flex;
     justify-content: space-between;
     padding-right: 9%;
