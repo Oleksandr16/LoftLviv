@@ -6,36 +6,30 @@ body{
      max-width: 1920px;
      margin: 0 auto;
 }
-#heder {
+#header {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    height: 140px;
+    height: 160px;
     color: #261212;
     background-color: black;
-    font-size: 50px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
+}
+#head {
+    font-size: 75px;
 }
 .label {
+    padding: 1%;
+    color: black;
     font-size: 50px;
-    color: #261212;
-    background-color: #b5a37b;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
-    margin-top: 2%;
-}
-.nav{
-    color: #261212;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    margin-top: 3%;
-    height: 60px;
-    font-size: 30px;
-    background-color: #bfb6a4;
+    margin-top: 1%;
 }
 .figcaption {
+    margin-top: 1.5%;
+    color: black;
     display: flex;
     justify-content: flex-start;
     padding-left: 1%;
@@ -49,6 +43,7 @@ body{
     padding-left: 1%
 }
 #contadd {
+    color: black;
     display: flex;
     justify-content: space-between;
     padding-right: 6%;
@@ -58,6 +53,7 @@ body{
     font-family: 'Lobster Two', cursive;
 }
 #footer {
+    color: black;
     display: flex;
     justify-content: space-between;
     padding-right: 9%;
