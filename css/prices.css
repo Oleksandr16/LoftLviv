@@ -6,7 +6,7 @@ body{
      max-width: 1920px;
      margin: 0 auto;
 }
-#heder {
+#header {
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -17,32 +17,30 @@ body{
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
 }
+#head {
+    font-size: 75px;
+}
 .label {
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
     font-size: 50px;
     color: #261212;
-    background-color: #b5a37b;
     margin-top: 2%;
+    padding: 1%;
+    color: black;
 }
 .mainimg {
     display: flex;
-    width: 80%;
+    justify-content: center;
+    width: 90%;
     height: 500px;
-    padding-left: 10%;
-    margin-top: 2%;
-}
-.nav{
-    color: #261212;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    margin-top: 3%;
-    height: 60px;
-    font-size: 30px;
-    background-color: #bfb6a4; 
+    margin-left: 5%;
+    margin-bottom: 2%;
+    padding-right: 5%; 
+    padding-left: 5%;
 }
 .list {
+    color: black;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
     font-size: 25px;
@@ -51,6 +49,7 @@ body{
     display: flex;
     justify-content: space-between;
     padding-right: 6%;
+    color: black;
     font-size: 25px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
@@ -60,6 +59,7 @@ body{
     justify-content: space-between;
     padding-right: 9%;
     font-size: 30px;
+    color: black;
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster Two', cursive;
     
